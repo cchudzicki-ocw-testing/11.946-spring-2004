@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: massaquoi_apr_2.pdf
-type: OCWFile
 uid: f4d011d1-d9d3-0112-85bc-892b31972bfa
 ---

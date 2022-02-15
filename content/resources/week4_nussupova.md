@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: week4_nussupova.pdf
-type: OCWFile
 uid: 7a2f96ff-b508-7a46-3122-0909312f661d
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: week9_macgregor.pdf
-type: OCWFile
 uid: 0763ceb2-b060-e24e-721a-58ebd63ee81e
 ---

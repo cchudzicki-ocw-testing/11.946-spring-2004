@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: april_26.pdf
-type: OCWFile
 uid: 0d5b8f63-a2f0-01d0-a2b5-2f1bf59a2cd2
 ---

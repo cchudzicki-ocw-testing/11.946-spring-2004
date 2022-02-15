@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: nanavati_march_5.pdf
-type: OCWFile
 uid: ae16978c-96c4-b194-ce07-06eac3d93424
 ---

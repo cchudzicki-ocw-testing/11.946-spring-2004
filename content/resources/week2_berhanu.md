@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: week2_berhanu.pdf
-type: OCWFile
 uid: a1b254a8-fc09-f724-4afb-b5fdcba50f54
 ---
