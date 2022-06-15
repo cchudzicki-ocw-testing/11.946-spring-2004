@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides lecture notes from selected guest lecturers.
 draft: false
 learning_resource_types:
 - Lecture Notes
